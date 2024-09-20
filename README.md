@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new skills to create new inventions.
 - 🌱 I’m currently learning Machine Learning!
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me through LinkedIn!
+- 📫 You can reach me through [LinkedIn](https://www.linkedin.com/in/celeste-popoca/)!
 
 <!---
 celestepop/celestepop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
